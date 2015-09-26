@@ -1,7 +1,7 @@
 class Goose < Formula
   homepage "https://github.com/andersjanmyr/goose"
   url "https://github.com/andersjanmyr/goose/archive/v1.3.4.tar.gz"
-  sha256 "4d3ee7f9f31083544a508514d74e60ec86877e88277b6dfe826bcd302f3008ce"
+  sha256 "20a2c79880ddb2d68c39dd39834e9b9de1348d4c2e35e876c5f3e09766c90722"
 
   depends_on "go" => :build
 
