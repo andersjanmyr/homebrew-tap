@@ -1,7 +1,7 @@
 class Mc < Formula
   homepage "https://github.com/andersjanmyr/mc"
-  url "https://github.com/andersjanmyr/mc/archive/v1.4.2.tar.gz"
-  sha256 "ca322526597179df6c26a4b911fbabe155b035fc495784f16e91c9955e9a198a"
+  url "https://github.com/andersjanmyr/mc/archive/v1.4.3.tar.gz"
+  sha256 "22cdcd1326fe54603eb61e93c193a73a2cf9da48a53a083cd7673c94c8011a69"
 
   depends_on "go" => :build
 
