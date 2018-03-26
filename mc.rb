@@ -7,7 +7,7 @@ class Mc < Formula
 
   def install
     ENV["GOPATH"] = buildpath
-    system "./build.sh"
+    system "./scripts/build.sh"
     bin.install "bin/mc"
   end
 
