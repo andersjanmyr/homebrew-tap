@@ -1,7 +1,7 @@
 class Ocr < Formula
   homepage "https://github.com/andersjanmyr/ocr"
   url "https://github.com/andersjanmyr/ocr/archive/v1.0.1.tar.gz"
-  sha256 "6679f20b47673b04e826bc4cfca370cb19a862f3721eb0dec28876001b303ca6"
+  sha256 "e8eb4fec60ddb3fd82f218c4cedda0339e573cd2bb22d6b4dc45b8c49c05b9da"
 
   depends_on "go" => :build
 
