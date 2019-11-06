@@ -5,7 +5,7 @@
 `mc` is a command line interface for memcached, https://github.com/andersjanmyr/mc.
 
 ```
-$ brew tap andersjanmyr/mc
+$ brew tap andersjanmyr/tap
 # To avoid installing midnight commander, use full tap path.
 $ brew install andersjanmyr/homebrew-tap/mc
 ```
